@@ -6,6 +6,6 @@ For this project we need :
     c. Github for Collaboration
     d. VMWare/VirtualBox as a Server (using Ubuntu)
 Our task :
-    a. Citra    : Make ChatGPT Front-End
+    a. Citra    : Make ChatGPT User-Interface
     b. Rasya    : Handle ChatGPT server
     c. Satya    : Connecting server and user (API)
